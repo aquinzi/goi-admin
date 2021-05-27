@@ -3,7 +3,7 @@
 (English below)
 
 
-Repositorio público de mi sistema de administración de vocabulario. 
+Repositorio público de mi sistema de [administración de vocabulario](https://aquinzi.com/es/projects/goi-admin/). 
 
 Notas:
 
@@ -29,7 +29,7 @@ A futuro:
 -----
 
 
-Public repository for my vocabulary system management.
+Public repository for my [vocabulary system management](https://aquinzi.com/projects/goi-admin/).
 
 Notes:
 
